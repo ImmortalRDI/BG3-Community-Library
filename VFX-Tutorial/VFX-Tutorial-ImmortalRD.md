@@ -407,10 +407,24 @@ This particular node ID is generally reserved for Eye sockets, and other special
 
 There are many more, too many to list here, even. Again, I encourage you to explore those <b>MEI</b>'s and find those effects that suit you.
 
+#### <ins><b>Folder Structure</b></ins>   <!-- omit from toc -->
+
+The Folder structure you want for your <b>MEI</b>s is as follows:
+
+![MEIFolderStructure](https://i.imgur.com/GpCwUJP.png)
+
 Now, as we have learned <b>MEI</b>'s can do a lot, and lead to a lot interesting results. However, they are limited in that there are a few things they cannot do, at least not effectively. That's where [Root Templates](#root-templates) come in.
 
 ## **Root Templates**
 Root Templates, while similar to [MultiEffectInfos](#multieffectinfos) in many ways, they are also quite different. While an <b>MEI</b> exclusively handles visual effects, a `RootTemplate` handles visual effects, sounds, and a wide variety of other things. You can find `RootTemplates` as Items, `SpellAnimations`, `Trajectories` and more. In this particular section we will be covering `Trajectories`.
+
+#### <ins><b>Folder Structure</b></ins>   <!-- omit from toc -->
+
+The Folder structure you want for your `RootTemplate` is as follows:
+
+![MEIFolderStructure](https://i.imgur.com/bhGCIlx.png)
+
+
 ## **Merged Files**
 ## **LSFX Files**
 ## **Hot Testing**
