@@ -67,6 +67,7 @@ This, quite simply, is the games reference point. It will tell your [**MultiEffe
 This is the core. You will find all of the bits and pieces associated with a particular VFX File. I'll tell you why it's so important in a bit.
 >### <ins>**Patience**</ins>
 You're going to need this. One, because this can end up being time consuming. But also, you have to put up with my awful jokes if you want to get through the rest of this tutorial.
+![](../../GitHub/BG3-Community-Library/VFX-Tutorial/Patience.png)
 >### <ins>**Imagination**</ins>
 If you didn't really have this, you probably wouldn't have read this far in the first place, so congratulations, you're about ready to make some magic!
 >### **Final Requirement Notes**
